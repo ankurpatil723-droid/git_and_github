@@ -1,0 +1,1 @@
+print ("ganpati bappa morya deva please maa aur baap ko khush rakhana please ")
